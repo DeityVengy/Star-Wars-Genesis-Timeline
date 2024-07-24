@@ -39,7 +39,8 @@ ADT - After the Destruction of Taris <br />
 - The cease-fire between the Shadow Collective and Rebel Alliance ends. The hyperspace lanes between Rebel and Imperial space are overrun by Shadow Collective sanctioned pirates, effectively splitting the Galaxy. 
 
 ### 3 ADT
-- The Neo Crusaders switch to the offensive and begin their galaxy-wide Crusade. 
+- The Neo Crusaders switch to the offensive and begin their galaxy-wide Crusade.
+- The Empire establishes an extensive mining campaign on Geonosis
 
 ### 5 ADT
 - Nar Shaddaa and the Hutts officially join the Rebel Alliance. 
