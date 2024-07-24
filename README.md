@@ -26,10 +26,10 @@ ADT - After the Destruction of Taris <br />
 - The Shadow Collective is formed on Mandalore by Darth Maul. The Neo Crusaders are founded in response by an unknown individual, presumably Nom Anor.
 
 ### 0 ADT (19 years before original Battle of Yavin)
-- The surface of Taris is seemingly vaporized, killing trillions and leaving only remnants of the former civilization. The Republic and Trade Federation agree to a ceasefire and sign a peace treaty shortly after. (THIS IS WHERE THINGS DEVIATE IMMENSELY)
+- The surface of Taris is seemingly vaporized, killing trillions and leaving only remnants of the former civilization. The Republic and Trade Federation agree to a ceasefire and sign a peace treaty shortly after.
 - The Trade Federation becomes the Galaxy’s main Trade Authority. The Republic is re-formed into an Empire with Palpatine as Emperor. The Jedi Order is wiped out and all existing clones are slowly decommissioned.
 
-### 1 ADT
+### 1 ADT (THIS IS WHERE THINGS DEVIATE IMMENSELY)
 - The Emperor breaks free from the Vong’s indoctrination and exiles into Deep Space with his loyalists and reserve clone troopers. Hope spreads across the Galaxy, and the first signs of a Rebellion forming is seen.
 - The Empire, who the Yuuzhan Vong no longer indirectly control, declare war on the Shadow Collective and bombard Mandalore. 
 - The remaining Shadow Collective ally with various pirate gangs and retaliate by attacking a Star Destroyer above Mandalore. The newly formed Rebel Alliance joins the battle as a third party and pushes the other Imperial forces towards retreat. The Shadow Collective successfully take over the Star Destroyer and initiate a temporary cease-fire with the Rebels.
