@@ -19,7 +19,7 @@ ADT - After the Destruction of Taris <br />
 - Under the manipulation of the Yuuzhan Vong, the Queen signs the Treaty of Naboo and allows the occupation of the planet by the Trade Federation
 
 ### 3 BDT (same year as original clone wars)
-- The Trade Federation discovers the Republic’s plans to build an Orbital Battle Station and declares war. The Senate vote to remove the former Chancellor from office and appoint the indoctrinated Palpatine as a replacement.
+- The Trade Federation discovers the Republic’s plans to build an Orbital Battle Station and declares war. The Senate vote to remove the current Chancellor from office and appoint the indoctrinated Palpatine as a replacement.
 - The Republic discovers the clone army on Kamino and officially begins the Clone Wars at the Battle of Geonosis.
 - The Shadow Collective is formed on Mandalore by Darth Maul. The Neo Crusaders are founded in response by an unknown individual, presumably Nom Anor. The Clone Wars continue for 3 years.
 
