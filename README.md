@@ -9,8 +9,8 @@ ADT - After the Destruction of Taris <br />
 
 ## Timeline
 
-### 14 BDT 
-- The Yuuzhan Vong enter the timeline from the World between Worlds (1 year before Phantom Menace)
+### 14 BDT (1 year before Phantom Menace)
+- The Yuuzhan Vong enter the timeline from the World between Worlds
 
 ### 13 BDT (same year as Phantom Menace)
 - The Yuuzhan Vong kill Darth Plageius and indoctrinate his apprentice, sending him off as a Senator for Coruscant.
