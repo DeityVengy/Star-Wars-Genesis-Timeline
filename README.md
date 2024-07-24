@@ -15,7 +15,7 @@ ADT - After the Destruction of Taris <br />
 ### 13 BDT (same year as Phantom Menace)
 - The Yuuzhan Vong kill Darth Plageius and indoctrinate his apprentice, sending him off as a Senator for Coruscant.
 - The Yuuzhan Vong fund the creation of a clone army with Plageius’ former wealth and give ownership and authority of it over to the Republic
-- The Yuuzhan Vong order the early design and construction of an “Orbital Battle Station” under the false request of the Galactic Republic
+- The Yuuzhan Vong order the early design and construction of an “Orbital Battle Station” at Taris Shipyards under the false request of the Galactic Republic
 - Under the manipulation of the Yuuzhan Vong, the Queen signs the Treaty of Naboo and allows the occupation of the planet by the Trade Federation
 
 ### 3 BDT (same year as original clone wars)
