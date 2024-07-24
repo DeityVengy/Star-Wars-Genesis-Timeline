@@ -52,6 +52,9 @@ ADT - After the Destruction of Taris <br />
 ### 7 ADT
 - The Empire evacuates Rhen Var due to a Rakghoul outbreak, leaving behind a single forward base
 
+### 9 ADT
+- Rakghouls are now seen in countless settled systems across the Galaxy
+
 ### 10 ADT (9 years before Battle of Yavin)
 - The player character discovers an artifact
 
