@@ -43,20 +43,20 @@ ADT - After the Destruction of Taris <br />
 - The Empire establishes an extensive mining campaign on Geonosis and other planets using decomissioned clone troopers.
 
 ### 5 ADT
-- Nar Shaddaa and the Hutts officially join the Rebel Alliance.
+- Nar Shaddaa and the Hutts join the Rebel Alliance due to their mutual isolation and close proximity caused by the galaxy split.
 
 ### 6 ADT
 - The Yuuzhan Vong release a modified Rakghoul plague across the Galaxy as part of their backup plan
-- The Yuuzhan Vong begin collecting artifacts
+- The Yuuzhan Vong begin collecting artifacts.
 
 ### 7 ADT
-- The Empire evacuates Rhen Var due to a Rakghoul outbreak, leaving behind a single forward base
+- The Empire evacuates Rhen Var due to a Rakghoul outbreak, leaving behind a single forward operating base.
 
 ### 9 ADT
-- Rakghouls are now seen in countless settled systems across the Galaxy
+- Rakghouls are now seen in countless settled systems across the Galaxy.
 
 ### 10 ADT (9 years before Battle of Yavin)
-- The player character discovers an artifact
+- The player character discovers an artifact.
 
 
 
