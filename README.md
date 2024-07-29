@@ -40,7 +40,7 @@ ADT - After the Destruction of Taris <br />
 
 ### 3 ADT
 - The Neo Crusaders switch to the offensive and begin their galaxy-wide Crusade.
-- The Empire establishes an extensive mining campaign on Geonosis
+- The Empire establishes an extensive mining campaign on Geonosis and other planets using decomissioned clone troopers.
 
 ### 5 ADT
 - Nar Shaddaa and the Hutts officially join the Rebel Alliance.
