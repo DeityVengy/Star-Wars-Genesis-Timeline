@@ -21,7 +21,7 @@ CRC - Coruscant Reckoning Calender <br />
 - The Trade Federation discovers the Republic’s plans to build an Orbital Battle Station and declares war. The Senate vote to remove the current Chancellor from office and appoint the indoctrinated Palpatine as a replacement.
 - The Republic discovers the clone army on Kamino and officially begins the Clone Wars at the Battle of Geonosis.
 
-### 7958 CRC (sam year as original Revenge of the Sith)
+### 7958 CRC (same year as original Revenge of the Sith)
 - The Shadow Collective is formed on Mandalore by Darth Maul. The Neo Crusaders are founded in response by an unknown individual, presumably Nom Anor.
 - The surface of Taris is seemingly vaporized, killing trillions and leaving only remnants of the former civilization. The Republic and Trade Federation agree to a ceasefire and sign a peace treaty shortly after.
 - The Trade Federation becomes the Galaxy’s main Trade Authority. The Republic is re-formed into an Empire with Palpatine as Emperor. The Jedi Order is wiped out and all existing clones are slowly decommissioned.
