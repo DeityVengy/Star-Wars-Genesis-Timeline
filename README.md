@@ -5,7 +5,6 @@ Narion War - Clone War <br />
 Colony War - Civil War <br />
 Treaty of Narion/Kuat - Treaty of Naboo <br />
 CRC - Coruscant Reckoning Calender <br />
-ADT - After the Destruction of Taris <br />
 
 ## Timeline
 
