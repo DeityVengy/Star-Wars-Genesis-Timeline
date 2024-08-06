@@ -39,7 +39,7 @@ C.R.C. - Coruscant Reckoning Calender <br />
 ### 7961 C.R.C.
 - The Neo Crusaders switch to the offensive and begin their galaxy-wide Crusade.
 - The Empire establishes an extensive mining campaign on Geonosis and other planets using decomissioned clone troopers.
-- Sith Loyalists attack the neutral shadowport of Port Haven
+- Sith Loyalists attack the neutral shadowport of Port Haven, triggering what's known as the Emperor's Crusade.
 
 ### 7963 C.R.C.
 - Nar Shaddaa and the Hutts join the Rebel Alliance due to their mutual isolation and close proximity caused by the galaxy split.
