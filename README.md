@@ -16,6 +16,7 @@ C.R.C. - Coruscant Reckoning Calender <br />
 - The Yuuzhan Vong fund the creation of a clone army with Plageius’ former wealth and give ownership and authority of it over to the Republic
 - The Yuuzhan Vong order the early design and construction of an “Orbital Battle Station” at Taris Shipyards under the false request of the Galactic Republic
 - Under the manipulation of the Yuuzhan Vong, the Queen signs the Treaty of Naboo and allows the occupation of the planet by the Trade Federation
+- BioTech Industries invents the BioTech Implant.
 
 ### 7955 C.R.C. (same year as original clone wars)
 - The Trade Federation discovers the Republic’s plans to build an Orbital Battle Station and declares war. The Senate vote to remove the current Chancellor from office and appoint the indoctrinated Palpatine as a replacement.
@@ -38,6 +39,7 @@ C.R.C. - Coruscant Reckoning Calender <br />
 ### 7961 C.R.C.
 - The Neo Crusaders switch to the offensive and begin their galaxy-wide Crusade.
 - The Empire establishes an extensive mining campaign on Geonosis and other planets using decomissioned clone troopers.
+- Sith Loyalists attack the neutral shadowport of Port Haven
 
 ### 7963 C.R.C.
 - Nar Shaddaa and the Hutts join the Rebel Alliance due to their mutual isolation and close proximity caused by the galaxy split.
@@ -51,6 +53,7 @@ C.R.C. - Coruscant Reckoning Calender <br />
 
 ### 7967 C.R.C.
 - Rakghouls are now seen in countless settled systems across the Galaxy.
+- Port Haven is occupied and rebuilt by the Empire
 
 ### 7968 C.R.C. (9 years before Battle of Yavin)
 - The player character discovers an artifact.
