@@ -18,6 +18,9 @@ C.R.C. - Coruscant Reckoning Calender <br />
 - Under the manipulation of the Yuuzhan Vong, the Queen signs the Treaty of Naboo and allows the occupation of the planet by the Trade Federation
 - BioTech Industries invents the BioTech Implant.
 
+### 7949 C.R.C.
+- BioTech Industries completes construction of BioTech Tower in Nar Shaddaa, firmly establishing itself as the most powerful megacorporation in the Galaxy. 
+
 ### 7955 C.R.C. (same year as original clone wars)
 - The Trade Federation discovers the Republic’s plans to build an Orbital Battle Station and declares war. The Senate vote to remove the current Chancellor from office and appoint the indoctrinated Palpatine as a replacement.
 - The Republic discovers the clone army on Kamino and officially begins the Clone Wars at the Battle of Geonosis.
