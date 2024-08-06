@@ -29,7 +29,7 @@ C.R.C. - Coruscant Reckoning Calender <br />
 ### 7959 C.R.C. (THIS IS WHERE THINGS DEVIATE IMMENSELY)
 - The Emperor breaks free from the Vong’s indoctrination and exiles into Deep Space with his loyalists and reserve clone troopers. Hope spreads across the Galaxy, and the first signs of a Rebellion forming is seen.
 - The Empire, who the Yuuzhan Vong no longer indirectly control, declare war on the Shadow Collective and bombard Mandalore. 
-- The remaining Shadow Collective ally with various pirate gangs and retaliate by attacking a Star Destroyer above Mandalore. The newly formed Rebel Alliance joins the battle as a third party and pushes the other Imperial forces towards retreat. The Shadow Collective successfully take over the Star Destroyer and initiate a temporary cease-fire with the Rebels.
+- The remaining Shadow Collective under Gar Saxon ally with various pirate gangs and retaliate by attacking a Star Destroyer above Mandalore. The newly formed Rebel Alliance joins the battle as a third party and pushes the other Imperial forces towards retreat. The Shadow Collective successfully take over the Star Destroyer and initiate a temporary cease-fire with the Rebels.
 
 ### 7960 C.R.C.
 - The Galactic Civil War officially begins. The Rebel Alliance establishes their capital in Dantooine and places numerous bases across the Galaxy
